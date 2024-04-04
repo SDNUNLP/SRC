@@ -1,0 +1,1 @@
+# Code for "Domain-Consistent Syntactic Representation for Cross-Domain Aspect Sentiment Triplet Extraction"
